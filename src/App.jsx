@@ -19,7 +19,7 @@ import UrlForm from './components/UrlForm';
 
 function App() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '5000px' }}>
+    <div style={{ textAlign: 'center', marginTop: '550px' }}>
       <UrlForm />
     </div>
   );
